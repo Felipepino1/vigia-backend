@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Base de datos local (no se sube al repo)
+*.db
+
+# Variables de entorno con secretos
+.env
